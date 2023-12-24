@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "[Python] Class Hierarachy", "[Python] Class Hierarachy\[Python] Class Hierarachy.pyproj", "{48474E5A-B2B7-4047-BAD3-FC0B4D49D2DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48474E5A-B2B7-4047-BAD3-FC0B4D49D2DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48474E5A-B2B7-4047-BAD3-FC0B4D49D2DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A744C63-F7A0-432C-828F-A4B3BC5F06BE}
+	EndGlobalSection
+EndGlobal
